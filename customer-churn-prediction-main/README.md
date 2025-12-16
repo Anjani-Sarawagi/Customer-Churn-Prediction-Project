@@ -79,6 +79,3 @@ Used the following metrics to evaluate model performance:
 
 ---
 
-## 🧑‍💻 Author
-
-Aditya Amodkar
